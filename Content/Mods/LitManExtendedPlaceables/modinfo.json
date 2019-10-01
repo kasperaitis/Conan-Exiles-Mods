@@ -1,0 +1,16 @@
+{
+	"name": "LitMan Extended Placeables WIP",
+	"description": "Makes some Vanilla game items as Placeables.\n\n[b]DO NOT USE ON PRODUCTION SERVER OR SOLO. IT'S FOR TESTING PURPOSES ONLY.[/b]\n\nIt's most likely buildings will disappear or it will be displaced after every update before Mod release.\n\nSupport Channel on Discord: https://discord.gg/6z922PG\n\nIf you like my Mods feel free to Donate on Paypal https://www.paypal.me/kasperaitis.\n\nMod ID: 1545298964",
+	"changeNote": "Dev Kit Version 144536.21789\n\nUpdated to match the live game version.",
+	"author": "LitMan",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 12,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1545298964",
+	"steamVisibility": 2,
+	"folderName": "LitManExtendedPlaceables",
+	"revisionNumber": 144536,
+	"snapshotId": 21789
+}
