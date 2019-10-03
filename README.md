@@ -20,7 +20,7 @@ Dev Kit Version 144536.21789. Published on Steam.
 Dev Kit Version 144536.21789. Published on Steam.
 
 **LitManExtendedPlaceables**
-Dev Kit Version 144536.21789. Not Published on Steam.
+Dev Kit Version 144536.21789. `Not Published` on Steam.
 
 **LitManHUD**
 Dev Kit Version 144536.21789. Published on Steam.
@@ -53,7 +53,7 @@ Dev Kit Version 144536.21789. Published on Steam.
 Dev Kit Version 144536.21789. Published on Steam.
 
 **LitManPubicHair**
-Dev Kit Version `110817.19834`. Not Published on Steam.
+Dev Kit Version `110817.19834`. `Not Published` on Steam.
 
 **LitManTemperature**
 Dev Kit Version 144536.21789. Published on Steam.
