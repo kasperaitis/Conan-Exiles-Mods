@@ -78,4 +78,6 @@ Steam: https://steamcommunity.com/id/kasperaitis/myworkshopfiles/?appid=440900
 
 Discord: https://discord.gg/XVxT6ed
 
-> If you find it useful feel free to Donate on Paypal https://www.paypal.me/kasperaitis.
+### Donation
+
+If you find it **useful** feel free to Donate on Paypal https://www.paypal.me/kasperaitis.
