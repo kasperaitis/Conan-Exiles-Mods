@@ -75,5 +75,5 @@ Dev Kit Version 144536.21789. Published on Steam.
 ### Links
 
 Steam: https://steamcommunity.com/id/kasperaitis/myworkshopfiles/?appid=440900
-Discord: https://discord.gg/XVxT6ed
 
+Discord: https://discord.gg/XVxT6ed
