@@ -6,7 +6,8 @@
 
 ----
 
-#### <i class="fas fa-folder"></i> Folder Structure 
+#### <i class="fas fa-folder"></i> Folder Structure
+{: #folder}
 
 **Content/Mods**
 - Contains all the Mods.
