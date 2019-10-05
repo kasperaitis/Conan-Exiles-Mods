@@ -70,7 +70,7 @@ Dev Kit Version 144536.21789. Published on Steam.
 - Compiled Mods if you need previous version or not using Steam Workshop.
 
 **Content/Mods**
-- Contains all the Mods.
+- Contains all Source Files.
 
 **images**
 - Just a header image.
