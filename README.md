@@ -22,6 +22,9 @@ Dev Kit Version 147178.22038. Published on Steam.
 **LitManExtendedPlaceables**
 Dev Kit Version 147178.22038. `Not Published` on Steam.
 
+**LitManGlass**
+Dev Kit Version 147178.22038. `Not Published` on Steam.
+
 **LitManHUD**
 Dev Kit Version 147178.22038. Published on Steam.
 
