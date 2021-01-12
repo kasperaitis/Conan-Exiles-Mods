@@ -1,16 +1,16 @@
 {
 	"name": "LitMan Increased Weight",
-	"description": "[b]Thank You and possibly Goodbye![/b]\n\nI want to say big Thank You to all of those who supported me all the way.\n\nIt was a pleasurable experience. I loved what I were doing and remember everyone who was together. There was a good days and a bad ones. Together we shared the passion to this game. But everything has its own end. My modding is not the exception.\n\nCurrently I'm mostly in Real Life project to conquer Kungsleden by foot.\n\nKungsleden (Kings Trail) is a hiking trail in northern Sweden, approximately 440 kilometers (270 mi) long, between Hemavan in the south and Abisko in the north.\n\nThe trip is scheduled for 2021 (at the best 2020), depending on the ability to raise funds for this trip.\n\nIf you found my Mods useful please help me my dreams come true and donate. I would be very thankful if you could donate even a little bit to raise my funding. \n\nPlease Donate on PayPal https://www.paypal.me/kasperaitis\n\nDepending on donations I may resume updating my Mods.  \n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\n[b]Latest Update. Dev Kit Version 147178.22038.[/b]\n\n[quote]Days I was Modding Conan Exiles: 937 days or 2 years, 6 months, 23 days\n\nMods Released: 18\nMods Updates: 855\nFollowers: 384\nTotal Unique Visitors: 371154\nCurrent Subscribers: 231707\nTotal Unique Subscribers: 322244\nCurrent Favorites: 8817\nTotal Unique Favorites: 10501\nPositive Ratings: 2752\nNegative ratings: 70[/quote]\n\n[b]Increased Weight Limit to 7000000.[/b]\n\nBest used with \"LitMan Item Stack\" or \"LitMan Item Stack & Container Size\".\n\nDoes not work with \"LitMan Weight\". \n\nSupport Channel on Discord: https://discord.gg/aStb9nH\n\nMod ID: 884155321",
-	"changeNote": "Dev Kit Version 147178.22038\n\nRecreated without touching game files directly.",
+	"description": "[quote]Latest Update. Dev Kit Version 265775.27373.[/quote]\n\n[b]Increased Weight Limit to 7000000.[/b]\n\nBest used with \"LitMan Item Stack\" or \"LitMan Item Stack & Container Size\".\n\nDoes not work with \"LitMan Weight\". \n\nSupport Channel on Discord: https://discord.gg/aStb9nH\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 884155321",
+	"changeNote": "Dev Kit Version 265775.27373\n\nUpdated to match the live game version.",
 	"author": "LitMan",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 32,
+	"versionMinor": 33,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "884155321",
 	"steamVisibility": 0,
 	"folderName": "LitManIncreasedWeight",
-	"revisionNumber": 147178,
-	"snapshotId": 22038
+	"revisionNumber": 265775,
+	"snapshotId": 27373
 }
