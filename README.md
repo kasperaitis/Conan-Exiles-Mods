@@ -29,7 +29,7 @@ Dev Kit Version 147178.22038. Published on Steam.
 Dev Kit Version 147178.22038. Published on Steam.
 
 **LitManIncreasedWeight**
-Dev Kit Version 147178.22038. Published on Steam.
+Dev Kit Version 269506.27677. Published on Steam.
 
 **LitManItemStack**
 Dev Kit Version 147178.22038. Published on Steam.
@@ -62,10 +62,10 @@ Dev Kit Version `110817.19834`. `Not Published` on Steam.
 Dev Kit Version 147178.22038. Published on Steam.
 
 **LitManThrallPlacingDistance**
-Dev Kit Version 147178.22038. Published on Steam.
+Dev Kit Version 269506.27677. Published on Steam.
 
 **LitManWeight**
-Dev Kit Version 147178.22038. Published on Steam.
+Dev Kit Version 269506.27677. Published on Steam.
 
 ### Folder Structure
 
