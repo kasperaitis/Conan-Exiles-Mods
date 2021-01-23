@@ -59,7 +59,7 @@ Dev Kit Version 147178.22038. Published on Steam.
 Dev Kit Version `110817.19834`. `Not Published` on Steam.
 
 **LitManTemperature**
-Dev Kit Version 147178.22038. Published on Steam.
+Dev Kit Version 269506.27677. Published on Steam.
 
 **LitManThrallPlacingDistance**
 Dev Kit Version 269506.27677. Published on Steam.

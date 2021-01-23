@@ -1,16 +1,16 @@
 {
 	"name": "LitMan Temperature",
-	"description": "[quote]Latest Update. Dev Kit Version 265775.27373.[/quote]\n\n[b]Disables Temperature Effect.[/b]\n\nSupport Channel on Discord: https://discord.gg/KPr4VHf\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 1155671841",
-	"changeNote": "Dev Kit Version 265775.27373\n\nUpdated to match the live game version.",
+	"description": "[quote]Latest Update. Dev Kit Version 269506.27677.[/quote]\n\n[b]Disables Temperature Effect.[/b]\n\nSupport Channel on Discord: https://discord.gg/KPr4VHf\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 1155671841",
+	"changeNote": "Dev Kit Version 269506.27677\n\nUpdated to match the live game version.",
 	"author": "LitMan",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 32,
-	"versionBuild": 1,
+	"versionMinor": 33,
+	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1155671841",
 	"steamVisibility": 0,
 	"folderName": "LitManTemperature",
-	"revisionNumber": 265775,
-	"snapshotId": 27373
+	"revisionNumber": 269506,
+	"snapshotId": 27677
 }
