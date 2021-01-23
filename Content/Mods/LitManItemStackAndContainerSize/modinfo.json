@@ -1,16 +1,16 @@
 {
 	"name": "LitMan Item Stack & Container Size",
-	"description": "[quote]Latest Update. Dev Kit Version 265775.27373.[/quote]\n\n[b]Item stack increased 10 times & Containers Size increased 10 times.[/b]\n\nDoes not Stacks Armor, Weapons and Pet Items.\n\nBest used with \"LitMan Increased Weight\".\n\nDoes not work with \"LitMan Item Stack\" and \"LitMan Container Size\". \n\nSupport Channel on Discord: https://discord.gg/nWaPQqe\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 1125427722",
-	"changeNote": "Dev Kit Version 265775.27373\n\nUpdated to match the live game version.",
+	"description": "[quote]Latest Update. Dev Kit Version 269506.27677.[/quote]\n\n[b]Item stack increased 10 times & Containers Size increased 10 times.[/b]\n\nDoes not Stacks Armor, Weapons and Pet Items.\n\nBest used with \"LitMan Increased Weight\".\n\nDoes not work with \"LitMan Item Stack\" and \"LitMan Container Size\". \n\nSupport Channel on Discord: https://discord.gg/nWaPQqe\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 1125427722",
+	"changeNote": "Dev Kit Version 269506.27677\n\nUpdated to match the live game version.",
 	"author": "LitMan",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 30,
-	"versionBuild": 1,
+	"versionMinor": 31,
+	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1125427722",
 	"steamVisibility": 0,
 	"folderName": "LitManItemStackAndContainerSize",
-	"revisionNumber": 265775,
-	"snapshotId": 27373
+	"revisionNumber": 269506,
+	"snapshotId": 27677
 }
