@@ -14,7 +14,7 @@ Dev Kit Version 147178.22038. Published on Steam.
 Dev Kit Version 147178.22038. Published on Steam.
 
 **LitManContainerSize**
-Dev Kit Version 147178.22038. Published on Steam.
+Dev Kit Version 269506.27677. Published on Steam.
 
 **LitManDurability**
 Dev Kit Version 147178.22038. Published on Steam.
