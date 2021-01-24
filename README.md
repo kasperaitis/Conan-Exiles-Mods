@@ -5,7 +5,7 @@
 ### Mods
 
 **LitManAllEntertainersNudeWomen**
-Dev Kit Version 147178.22038. Published on Steam.
+Dev Kit Version 269506.27677. Published on Steam.
 
 **LitManAllNude**
 Dev Kit Version 147178.22038. Published on Steam.
