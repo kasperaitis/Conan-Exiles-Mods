@@ -53,7 +53,7 @@ Dev Kit Version 269506.27677. Published on Steam.
 Dev Kit Version 269506.27677. Published on Steam.
 
 **LitManOnlyNudeWomen**
-Dev Kit Version 147178.22038. Published on Steam.
+Dev Kit Version 269506.27677. Published on Steam.
 
 **LitManPubicHair**
 Dev Kit Version `110817.19834`. `Not Published` on Steam.
