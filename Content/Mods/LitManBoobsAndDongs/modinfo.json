@@ -1,16 +1,16 @@
 {
 	"name": "LitMan Boobs and Dongs",
-	"description": "[quote]Latest Update. Dev Kit Version 269506.27677.[/quote]\n\n[b]Ajusted Physics.[/b]\n\nBoobs:\nIncreased Gravity. Decreased Spring.\n\nDongs:\nIncreased Gravity. Decrease Wind Scale.\n\nSupport Channel on Discord: https://discord.gg/XJzpSCy\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 913496068",
-	"changeNote": "Dev Kit Version 269506.27677\n\nUpdated to match the live game version.",
+	"description": "[quote]Latest Update. Dev Kit Version 300976.29848.[/quote]\n\n[b]Ajusted Physics.[/b]\n\nBoobs:\nIncreased Gravity. Decreased Spring.\n\nDongs:\nIncreased Gravity. Decrease Wind Scale.\n\nSupport Channel on Discord: https://discord.gg/XJzpSCy\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 913496068",
+	"changeNote": "Dev Kit Version 300976.29848\n\nUpdated to match the live game version.",
 	"author": "LitMan",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 32,
+	"versionMinor": 33,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "913496068",
 	"steamVisibility": 0,
 	"folderName": "LitManBoobsAndDongs",
-	"revisionNumber": 269506,
-	"snapshotId": 27677
+	"revisionNumber": 300976,
+	"snapshotId": 29848
 }
