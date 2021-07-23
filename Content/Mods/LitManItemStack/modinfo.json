@@ -1,16 +1,16 @@
 {
 	"name": "LitMan Item Stack",
-	"description": "[quote]Latest Update. Dev Kit Version 269506.27677.[/quote]\n\n[b]Item stack increased 10 times.[/b]\n\nDoes not Stacks Armor, Weapons and Pet Items.\n\nBest used with \"LitMan Increased Weight\".\n\nDoes not work with \"LitMan Container Size\" and \"LitMan Item Stack & Container Size\". \n\nIf you want bigger stacks and containers at the same time use \"LitMan Item Stack & Container Size\".\n\nSupport Channel on Discord: https://discord.gg/DutEMJr\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 884162441",
-	"changeNote": "Dev Kit Version 269506.27677\n\nUpdated to match the live game version.",
+	"description": "[quote]Latest Update. Dev Kit Version 300976.29848.[/quote]\n\n[b]Item stack increased 10 times.[/b]\n\nDoes not Stacks Armor, Weapons and Pet Items.\n\nBest used with \"LitMan Increased Weight\".\n\nDoes not work with \"LitMan Container Size\" and \"LitMan Item Stack & Container Size\". \n\nIf you want bigger stacks and containers at the same time use \"LitMan Item Stack & Container Size\".\n\nSupport Channel on Discord: https://discord.gg/DutEMJr\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 884162441",
+	"changeNote": "Dev Kit Version 300976.29848\n\nUpdated to match the live game version.",
 	"author": "LitMan",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 31,
-	"versionBuild": 2,
+	"versionMinor": 32,
+	"versionBuild": 1,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "884162441",
 	"steamVisibility": 0,
 	"folderName": "LitManItemStack",
-	"revisionNumber": 269506,
-	"snapshotId": 27677
+	"revisionNumber": 300976,
+	"snapshotId": 29848
 }
