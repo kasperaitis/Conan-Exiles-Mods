@@ -1,16 +1,16 @@
 {
 	"name": "LitMan Less Blood",
-	"description": "[quote]Latest Update. Dev Kit Version 269506.27677.[/quote]\n\n[b]Reduced Blood Splatter on Screen.\nReduced Full Screen Buff Effects.\nReduced Blood Splashes from Attack.\nReduced Blood Stains on Body.\nDisabled Body Dismeber.[/b]\n\nDoes not work with \"LitMan No Blood\".\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nSupport Channel on Discord: https://discord.gg/a8ceCFb\n\nMod ID: 911595874",
-	"changeNote": "Dev Kit Version 269506.27677\n\nUpdated to match the live game version.",
+	"description": "[quote]Latest Update. Dev Kit Version 300976.29848.[/quote]\n\n[b]Reduced Blood Splatter on Screen.\nReduced Full Screen Buff Effects.\nReduced Blood Splashes from Attack.\nReduced Blood Stains on Body.\nDisabled Body Dismeber.[/b]\n\nDoes not work with \"LitMan No Blood\".\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nSupport Channel on Discord: https://discord.gg/a8ceCFb\n\nMod ID: 911595874",
+	"changeNote": "Dev Kit Version 300976.29848\n\nUpdated to match the live game version.",
 	"author": "LitMan",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 31,
-	"versionBuild": 0,
+	"versionMinor": 32,
+	"versionBuild": 1,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "911595874",
 	"steamVisibility": 0,
 	"folderName": "LitManLessBlood",
-	"revisionNumber": 269506,
-	"snapshotId": 27677
+	"revisionNumber": 300976,
+	"snapshotId": 29848
 }
