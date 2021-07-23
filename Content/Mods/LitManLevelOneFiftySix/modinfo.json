@@ -1,16 +1,16 @@
 {
 	"name": "LitMan Level One Fifty Six",
-	"description": "[quote]Latest Update. Dev Kit Version 269506.27677.[/quote]\n\n[b]Up to Level 156.[/b]\n\nOriginal Stats:\n60 Levels\n7 619 025 XP\n402 Attribute Points\n497 Feats\n\nModded Stats:\n156 Levels\n331 173 189 XP\n2512 Attribute Points\n3036 Feats\n\nDoes not work with \"LitMan Level Seventy Eight\".\n\nIt is safe to replace \"LitMan Level Seventy Eight\" with this Mod. \n\n[quote]IMPORTANT: This Mod increases Level needed to open Legendary Chests to 156. If you want to be able open Legendary Chests from Level 1 you could use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1367028501]LitMan Loot Legendary Chests[/url].[/quote]\n\nSupport Channel on Discord: https://discord.gg/TK8zPtH\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 1138108077",
-	"changeNote": "Dev Kit Version 269506.27677\n\nUpdated to match the live game version.",
+	"description": "[quote]Latest Update. Dev Kit Version 300976.29848.[/quote]\n\n[b]Up to Level 156.[/b]\n\nOriginal Stats:\n60 Levels\n7 619 025 XP\n402 Attribute Points\n497 Feats\n\nModded Stats:\n156 Levels\n331 173 189 XP\n2512 Attribute Points\n3036 Feats\n\nDoes not work with \"LitMan Level Seventy Eight\".\n\nIt is safe to replace \"LitMan Level Seventy Eight\" with this Mod. \n\n[quote]IMPORTANT: This Mod increases Level needed to open Legendary Chests to 156. If you want to be able open Legendary Chests from Level 1 you could use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1367028501]LitMan Loot Legendary Chests[/url].[/quote]\n\nSupport Channel on Discord: https://discord.gg/TK8zPtH\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 1138108077",
+	"changeNote": "Dev Kit Version 300976.29848\n\nUpdated to match the live game version.",
 	"author": "LitMan",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 30,
+	"versionMinor": 31,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1138108077",
 	"steamVisibility": 0,
 	"folderName": "LitManLevelOneFiftySix",
-	"revisionNumber": 269506,
-	"snapshotId": 27677
+	"revisionNumber": 300976,
+	"snapshotId": 29848
 }

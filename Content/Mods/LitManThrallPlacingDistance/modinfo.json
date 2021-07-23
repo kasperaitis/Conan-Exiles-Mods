@@ -1,16 +1,16 @@
 {
 	"name": "LitMan Thrall Placing Distance",
-	"description": "[quote]Latest Update. Dev Kit Version 269506.27677.[/quote]\n\n[b]Thralls can be placed closer to each other.[/b]\n\nDefault value in Vanilla Game is 500.000000. Default value in Mod is 100.000000. If value is set to 500 or doesn't exist in ServerSetting.ini it will be forced to 100. If value in ServerSettings.ini is not 500 that value will be applied. \n\nTo set distance to your needs on Server add entry bellow to your \"ServerSetting.ini\" file.\n\nThrallExclusionRadius=100.000000\n\nSolo file location\n<DRIVE>:\\Program Files (x86)\\Steam\\steamapps\\common\\Conan Exiles\\ConanSandbox\\Saved\\Config\\WindowsNoEditor\\ServerSettings.ini\n\nServer file location\n<DRIVE>:\\<SERVER FOLDER>\\ConanSandbox\\Saved\\Config\\WindowsServer\\ServerSettings.ini\n\nSupport Channel on Discord: https://discord.gg/QQUm3mS\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 884168480",
-	"changeNote": "Dev Kit Version 269506.27677\n\nUpdated to match the live game version.",
+	"description": "[quote]Latest Update. Dev Kit Version 300976.29848.[/quote]\n\n[b]Thralls can be placed closer to each other.[/b]\n\nDefault value in Vanilla Game is 500.000000. Default value in Mod is 100.000000. If value is set to 500 or doesn't exist in ServerSetting.ini it will be forced to 100. If value in ServerSettings.ini is not 500 that value will be applied. \n\nTo set distance to your needs on Server add entry bellow to your \"ServerSetting.ini\" file.\n\nThrallExclusionRadius=100.000000\n\nSolo file location\n<DRIVE>:\\Program Files (x86)\\Steam\\steamapps\\common\\Conan Exiles\\ConanSandbox\\Saved\\Config\\WindowsNoEditor\\ServerSettings.ini\n\nServer file location\n<DRIVE>:\\<SERVER FOLDER>\\ConanSandbox\\Saved\\Config\\WindowsServer\\ServerSettings.ini\n\nSupport Channel on Discord: https://discord.gg/QQUm3mS\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 884168480",
+	"changeNote": "Dev Kit Version 300976.29848\n\nUpdated to match the live game version.",
 	"author": "LitMan",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 33,
+	"versionMinor": 35,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "884168480",
 	"steamVisibility": 0,
 	"folderName": "LitManThrallPlacingDistance",
-	"revisionNumber": 269506,
-	"snapshotId": 27677
+	"revisionNumber": 300976,
+	"snapshotId": 29848
 }
