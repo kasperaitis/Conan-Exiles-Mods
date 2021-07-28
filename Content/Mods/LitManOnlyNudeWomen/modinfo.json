@@ -1,16 +1,16 @@
 {
 	"name": "LitMan Only Nude Women",
-	"description": "[quote]Latest Update. Dev Kit Version 269506.27677.[/quote]\n\n[b]All Human NPC Are Nude Females.[/b]\n\nMod respects Gameplay Nudity settings - None, Partial or Full. You need to set Gameplay Nudity settings accordingly.\n\nDoes not work with \"LitMan All Entertainers Nude Women\", \"LitMan All Nude\".\n\nSupport Channel on Discord: https://discord.gg/dXGEN2A\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 884329560",
-	"changeNote": "Dev Kit Version 269506.27677\n\nUpdated to match the live game version.",
+	"description": "[quote]Latest Update. Dev Kit Version 300976.29848.[/quote]\n\n[b]All Human NPC Are Nude Females.[/b]\n\nMod respects Gameplay Nudity settings - None, Partial or Full. You need to set Gameplay Nudity settings accordingly.\n\nDoes not work with \"LitMan All Entertainers Nude Women\", \"LitMan All Nude\".\n\nSupport Channel on Discord: https://discord.gg/dXGEN2A\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 884329560",
+	"changeNote": "Dev Kit Version 300976.29848\n\nUpdated to match the live game version.",
 	"author": "LitMan",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 26,
+	"versionMinor": 27,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "884329560",
 	"steamVisibility": 0,
 	"folderName": "LitManOnlyNudeWomen",
-	"revisionNumber": 269506,
-	"snapshotId": 27677
+	"revisionNumber": 300976,
+	"snapshotId": 29848
 }
