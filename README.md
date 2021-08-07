@@ -5,67 +5,73 @@
 ### Mods
 
 **LitManAllEntertainersNudeWomen**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManAllNude**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManBoobsAndDongs**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManContainerSize**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManDurability**
-Dev Kit Version 147178.22038. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManExtendedPlaceables**
-Dev Kit Version 147178.22038. Published on Steam.
+Dev Kit Version `300976.29848`. `Published WIP` on Steam.
 
 **LitManGlass**
-Dev Kit Version 147178.22038. Published on Steam.
+Dev Kit Version `300976.29848`. `Published WIP` on Steam.
 
 **LitManHUD**
-Dev Kit Version 147178.22038. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManIncreasedWeight**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManItemStack**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManItemStackAndContainerSize**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManLessBlood**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManLevelOneFiftySix**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManLevelSeventyEight**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
+
+**LitManThreeTwelve**
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManLootLegendaryChests**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManNoBlood**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManOnlyNudeWomen**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManPubicHair**
-Dev Kit Version `110817.19834`. `Not Published` on Steam.
+Dev Kit Version `300976.29848`. `Published WIP` on Steam.
 
 **LitManTemperature**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
+
+**LitManTestMod**
+Dev Kit Version `300976.29848`. `Hidden` on Steam.
 
 **LitManThrallPlacingDistance**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManWeight**
-Dev Kit Version 269506.27677. Published on Steam.
+Dev Kit Version 300976.29848. Published on Steam.
 
 ### Folder Structure
 
