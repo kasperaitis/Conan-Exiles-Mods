@@ -1,0 +1,16 @@
+{
+	"name": "LitMan Level Three Twelve",
+	"description": "[quote]Latest Update. Dev Kit Version 300976.29848.[/quote]\n\n[b]Up to Level 312.[/b]\n\nOriginal Stats:\n60 Levels\n7 619 025 XP\n402 Attribute Points\n497 Feats\n\nModded Stats:\n312 Levels\n2 636 725 626 XP\n9891 Attribute Points\n12013 Feats\n\nDoes not work with \"LitMan Level Seventy Eight\" and \"LitMan Level One Fifty Six\".\n\nIt is safe to replace \"LitMan Level Seventy Eight\" or \"LitMan Level One Fifty Six\" with this Mod. \n\n[quote]IMPORTANT: This Mod increases Level needed to open Legendary Chests to 312. If you want to be able open Legendary Chests from Level 1 you could use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1367028501]LitMan Loot Legendary Chests[/url].[/quote]\n\nSupport Channel on Discord: https://discord.gg/TK8zPtH\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 2560285307",
+	"changeNote": "Dev Kit Version 300976.29848\n\nUpdated to match the live game version.",
+	"author": "LitMan",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 1,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2560285307",
+	"steamVisibility": 0,
+	"folderName": "LitManLevelThreeTwelve",
+	"revisionNumber": 300976,
+	"snapshotId": 29848
+}
