@@ -1,0 +1,16 @@
+{
+	"name": "LitMan Test Mod",
+	"description": "Created for Testing.\n\nMod ID: 1369177048\n",
+	"changeNote": "Dev Kit Version 300976.29848\n\n",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 2,
+	"versionBuild": 3,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1369177048",
+	"steamVisibility": 2,
+	"folderName": "LitManTestMod",
+	"revisionNumber": 300976,
+	"snapshotId": 29848
+}
