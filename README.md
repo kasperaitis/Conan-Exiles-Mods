@@ -75,9 +75,6 @@ Dev Kit Version 300976.29848. Published on Steam.
 
 ### Folder Structure
 
-**Compiled**
-- Compiled Mods if you need previous version or not using Steam Workshop.
-
 **Content/Mods**
 - Contains all Source Files.
 
