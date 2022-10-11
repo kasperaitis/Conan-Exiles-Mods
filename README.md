@@ -68,7 +68,7 @@ Dev Kit Version 300976.29848. Published on Steam.
 Dev Kit Version `300976.29848`. `Hidden` on Steam.
 
 **LitManThrallPlacingDistance**
-Dev Kit Version 300976.29848. Published on Steam.
+Dev Kit Version 408177.34671. Published on Steam.
 
 **LitManWeight**
 Dev Kit Version 300976.29848. Published on Steam.
