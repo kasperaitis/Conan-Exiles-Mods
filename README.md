@@ -62,7 +62,7 @@ Dev Kit Version 300976.29848. Published on Steam.
 Dev Kit Version `300976.29848`. `Published WIP` on Steam.
 
 **LitManTemperature**
-Dev Kit Version 300976.29848. Published on Steam.
+Dev Kit Version 622975.39737. Published on Steam.
 
 **LitManTestMod**
 Dev Kit Version `300976.29848`. `Hidden` on Steam.
