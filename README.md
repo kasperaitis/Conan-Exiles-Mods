@@ -50,7 +50,7 @@ Dev Kit Version 300976.29848. Published on Steam.
 Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManLootLegendaryChests**
-Dev Kit Version 300976.29848. Published on Steam.
+Deprecated. Hidden on Steam.
 
 **LitManNoBlood**
 Dev Kit Version 300976.29848. Published on Steam.

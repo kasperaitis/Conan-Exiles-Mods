@@ -1,16 +1,18 @@
 {
 	"name": "LitMan Loot Legendary Chests",
-	"description": "[quote]Latest Update. Dev Kit Version 314055.30574.[/quote]\n\n[b]Allows to open Legendary Chest from Level 1. You got key the chest is yours.[/b]\n\nBest used with \"LitMan Level One Fifty Six\", \"LitMan Level Seventy Eight\" or \"LitMan Level Three Twelve\".\n\nSupport Channel on Discord: https://discord.gg/bx9chJ9\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 1367028501",
-	"changeNote": "Dev Kit Version 314055.30574\n\nUpdated to match the live game version.",
+	"description": "[quote]Deprecated.[/quote]\n\n[b]Allows to open Legendary Chest from Level 1. You got key the chest is yours.[/b]\n\nBest used with \"LitMan Level One Fifty Six\", \"LitMan Level Seventy Eight\" or \"LitMan Level Three Twelve\".\n\nSupport Channel on Discord: https://discord.gg/bx9chJ9\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you find it useful feel free to Donate on Paypal https://www.paypal.me/kasperaitis\n\nMod ID: 1367028501",
+	"changeNote": "Dev Kit Version 612434.39641\n\nDeprecated.",
 	"author": "",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 31,
+	"versionMinor": 32,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1367028501",
+	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "LitManLootLegendaryChests",
-	"revisionNumber": 314055,
-	"snapshotId": 30574
+	"revisionNumber": 622975,
+	"snapshotId": 39737,
+	"fileSize": -1542657632
 }
