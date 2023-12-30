@@ -41,7 +41,7 @@ Dev Kit Version 300976.29848. Published on Steam.
 Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManLevelOneFiftySix**
-Dev Kit Version 300976.29848. Published on Steam.
+Dev Kit Version 622975.39737. Published on Steam.
 
 **LitManLevelSeventyEight**
 Dev Kit Version 300976.29848. Published on Steam.
@@ -89,4 +89,4 @@ Discord: https://discord.gg/XVxT6ed
 
 ### Donation
 
-If you find it **useful** feel free to Donate on Paypal https://www.paypal.me/kasperaitis.
+If you would like to Donate feel free to do so on Paypal https://www.paypal.me/kasperaitis.
