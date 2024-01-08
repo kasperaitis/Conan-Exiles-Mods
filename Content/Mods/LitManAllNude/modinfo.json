@@ -1,16 +1,18 @@
 {
 	"name": "LitMan All Nude",
-	"description": "[quote]Latest Update. Dev Kit Version 300976.29848.[/quote]\n\n[b]All Human NPC Are Nude. Male and Female.[/b]\n\nMod respects Gameplay Nudity settings - None, Partial or Full. You need to set Gameplay Nudity settings accordingly.\n\nDoes not work with \"LitMan Only Nude Women\", \"LitMan All Entertainers Nude Women\".\n\nSupport Channel on Discord: https://discord.gg/THtpzP5\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you need a previous version it also could be found on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\nMod ID: 910895723",
-	"changeNote": "Dev Kit Version 300976.29848\n\nUpdated to match the live game version.",
+	"description": "[quote]Latest Update. Dev Kit Version 622975.39737.[/quote]\n\n[b]All Human NPC Are Nude. Male and Female.[/b]\n\nMod respects Gameplay Nudity settings - None, Partial or Full. You need to set Gameplay Nudity settings accordingly.\n\nDoes not work with \"LitMan Only Nude Women\", \"LitMan All Entertainers Nude Women\".\n\nSupport Channel on Discord: https://discord.gg/THtpzP5\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you would like to Donate feel free to do so on Paypal https://www.paypal.me/kasperaitis\n\nMod ID: 910895723",
+	"changeNote": "Dev Kit Version 622975.39737\n\nUpdated to match the live game version.",
 	"author": "LitMan",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 28,
-	"versionBuild": 0,
+	"versionMinor": 29,
+	"versionBuild": 1,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "910895723",
+	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "LitManAllNude",
-	"revisionNumber": 300976,
-	"snapshotId": 29848
+	"revisionNumber": 622975,
+	"snapshotId": 39737,
+	"fileSize": -1280515360
 }

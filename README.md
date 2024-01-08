@@ -8,7 +8,7 @@
 Dev Kit Version 622975.39737. Published on Steam.
 
 **LitManAllNude**
-Dev Kit Version 300976.29848. Published on Steam.
+Dev Kit Version 622975.39737. Published on Steam.
 
 **LitManBoobsAndDongs**
 Dev Kit Version 300976.29848. Published on Steam.
