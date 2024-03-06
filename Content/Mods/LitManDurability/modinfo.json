@@ -1,18 +1,18 @@
 {
 	"name": "LitMan Durability",
-	"description": "[quote]Latest Update. Dev Kit Version 612434.39641.[/quote]\n\n[b]Durability of Tools, Weapons and Shields can be increased from 1 to 100 times.[/b]\n\nDefault value in Game 1. Default value in Mod 10.\n\nValue could be changed by Admins with command DataCmd SetDurability [value] in console. To enter console press ~ (Tilde).\n\n[code]DataCmd SetDurability 10[/code]\n\nThis Mod overrides ServerSetting.ini values.\n\nYou can increase or decrease durability even without this Mod.\n\nTo set durability x2 times for your tools, weapons and armor add those two entries bellow to your \"ServerSetting.ini\" file.\n\nDurabilityMultiplier=0.500000\nShieldDurabilityMultiplier=0.500000\n\nSolo file location\n<DRIVE>:\\Program Files (x86)\\Steam\\steamapps\\common\\Conan Exiles\\ConanSandbox\\Saved\\Config\\WindowsNoEditor\\ServerSettings.ini\n\nServer file location\n<DRIVE>:\\<SERVER FOLDER>\\ConanSandbox\\Saved\\Config\\WindowsServer\\ServerSettings.ini\n\nHits with Stone Pick:\nDurabilityMultiplier=1.000000 = x1 = 80 hits as Vanilla Game\nDurabilityMultiplier=0.500000 = x2 = 160 hits \nDurabilityMultiplier=0.100000 = x10 = 800 hits as this Mod\nDurabilityMultiplier=0.010000 = x100 = 8000 hits\n\nSupport Channel on Discord: https://discord.gg/kQS7t74\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you would like to Donate feel free to do so on Paypal https://www.paypal.me/kasperaitis\n\nMod ID: 887629852",
-	"changeNote": "Dev Kit Version 612434.39641\n\nRecoded. Added posibility to change the value by Admins in Console. Updated to match the live game version.",
+	"description": "[quote]Latest Update. Dev Kit Version 634425.39906.[/quote]\n\n[b]Durability of Tools, Weapons and Shields can be increased from 1 to 100 times.[/b]\n\nDefault value in Game 1. Default value in Mod 10.\n\nValue could be changed by Admins with command DataCmd SetDurability [value] in console. To enter console press ~ (Tilde).\n\n[code]DataCmd SetDurability 10[/code]\n\nThis Mod overrides ServerSetting.ini values.\n\nYou can increase or decrease durability even without this Mod.\n\nTo set durability x2 times for your tools, weapons and armor add those two entries bellow to your \"ServerSetting.ini\" file.\n\nDurabilityMultiplier=0.500000\nShieldDurabilityMultiplier=0.500000\n\nSolo file location\n<DRIVE>:\\Program Files (x86)\\Steam\\steamapps\\common\\Conan Exiles\\ConanSandbox\\Saved\\Config\\WindowsNoEditor\\ServerSettings.ini\n\nServer file location\n<DRIVE>:\\<SERVER FOLDER>\\ConanSandbox\\Saved\\Config\\WindowsServer\\ServerSettings.ini\n\nHits with Stone Pick:\nDurabilityMultiplier=1.000000 = x1 = 80 hits as Vanilla Game\nDurabilityMultiplier=0.500000 = x2 = 160 hits \nDurabilityMultiplier=0.100000 = x10 = 800 hits as this Mod\nDurabilityMultiplier=0.010000 = x100 = 8000 hits\n\nSupport Channel on Discord: https://discord.gg/kQS7t74\n\nI released all my Source files on Gitlab https://gitlab.com/kasperaitis/conan-exiles-mods if anyone wants to keep updated those Mods or release own ones.\n\nIf you would like to Donate feel free to do so on Paypal https://www.paypal.me/kasperaitis\n\nMod ID: 887629852",
+	"changeNote": "Dev Kit Version 634425.39906\n\nUpdated to match the live game version.",
 	"author": "LitMan",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 35,
+	"versionMinor": 36,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "887629852",
 	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "LitManDurability",
-	"revisionNumber": 622975,
-	"snapshotId": 39737,
+	"revisionNumber": 634425,
+	"snapshotId": 39906,
 	"fileSize": -2
 }
