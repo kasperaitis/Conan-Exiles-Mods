@@ -17,7 +17,7 @@ Dev Kit Version 300976.29848. Published on Steam.
 Dev Kit Version 622975.39737. Published on Steam.
 
 **LitManDurability**
-Dev Kit Version 622975.39737. Published on Steam.
+Dev Kit Version 634425.39906. Published on Steam.
 
 **LitManExtendedPlaceables**
 Dev Kit Version `300976.29848`. `Published WIP` on Steam.
@@ -68,7 +68,7 @@ Dev Kit Version 622975.39737. Published on Steam.
 Dev Kit Version `300976.29848`. `Hidden` on Steam.
 
 **LitManThrallPlacingDistance**
-Dev Kit Version 622975.39737. Published on Steam.
+Dev Kit Version 634425.39906. Published on Steam.
 
 **LitManWeight**
 Dev Kit Version 622975.39737. Published on Steam.
