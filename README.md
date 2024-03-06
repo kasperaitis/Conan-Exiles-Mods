@@ -29,7 +29,7 @@ Dev Kit Version `300976.29848`. `Published WIP` on Steam.
 Dev Kit Version 300976.29848. Published on Steam.
 
 **LitManIncreasedWeight**
-Dev Kit Version 622975.39737. Published on Steam.
+Dev Kit Version 634425.39906. Published on Steam.
 
 **LitManItemStack**
 Dev Kit Version 622975.39737. Published on Steam.
